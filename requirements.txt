@@ -1,0 +1,4 @@
+streamlit>=1.20
+transformers>=4.30
+torch>=1.12   # or install appropriate CPU/GPU wheel for your environment
+gTTS>=2.3.0   # optional (for TTS)
